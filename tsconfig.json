@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outDir": "build"
+//    "noEmitOnError": true   如果报告任何类型检查错误，不发起输出。
+  },
+  "include": [
+    "src/scripts/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
