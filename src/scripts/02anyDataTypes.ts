@@ -35,3 +35,5 @@ something.setName('Tom');
 // something = 7;
 //
 // something.setName('Tom');
+
+export {};
