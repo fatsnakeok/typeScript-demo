@@ -4,7 +4,7 @@
     "target": "es5",
     "sourceMap": true,
     "outDir": "build"
-//    "noEmitOnError": true   如果报告任何类型检查错误，不发起输出。   21323 v
+//    "noEmitOnError": true   如果报告任何类型检查错误，不发起输出。
   },
   "include": [
     "src/scripts/**/*"
