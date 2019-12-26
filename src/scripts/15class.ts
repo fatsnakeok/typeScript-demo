@@ -31,8 +31,8 @@ class Cat extends Animal11 {
     }
 }
 
-let c = new Cat('Tom'); // Tom
-console.log(c.sayHi()); // Meow, My name is Tom
+let c1 = new Cat('Tom'); // Tom
+console.log(c1.sayHi()); // Meow, My name is Tom
 
 //3存取器
 // 使用 getter 和 setter 可以改变属性的赋值和读取行为
